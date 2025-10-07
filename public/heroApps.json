@@ -1,0 +1,926 @@
+[
+  {
+    "image": "https://images.pexels.com/photos/100001/pexels-photo-100001.jpeg",
+    "title": "AppName 1",
+    "companyName": "Company 1",
+    "id": 1,
+    "description": "AppName 1 by Company 1 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 1 provides everything in one convenient place.\n\nWith AppName 1, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 1 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 1 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 1 offers the perfect blend of functionality and fun. Experience how Company 1 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 1 your trusted companion every day.",
+    "size": 51,
+    "reviews": 1050,
+    "ratingAvg": 3.8,
+    "downloads": 525000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 52
+      },
+      {
+        "name": "2 star",
+        "count": 73
+      },
+      {
+        "name": "3 star",
+        "count": 154
+      },
+      {
+        "name": "4 star",
+        "count": 305
+      },
+      {
+        "name": "5 star",
+        "count": 406
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100002/pexels-photo-100002.jpeg",
+    "title": "AppName 2",
+    "companyName": "Company 2",
+    "id": 2,
+    "description": "AppName 2 by Company 2 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 2 provides everything in one convenient place.\n\nWith AppName 2, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 2 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 2 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 2 offers the perfect blend of functionality and fun. Experience how Company 2 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 2 your trusted companion every day.",
+    "size": 52,
+    "reviews": 1100,
+    "ratingAvg": 4.1,
+    "downloads": 550000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 54
+      },
+      {
+        "name": "2 star",
+        "count": 76
+      },
+      {
+        "name": "3 star",
+        "count": 158
+      },
+      {
+        "name": "4 star",
+        "count": 310
+      },
+      {
+        "name": "5 star",
+        "count": 412
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100003/pexels-photo-100003.jpeg",
+    "title": "AppName 3",
+    "companyName": "Company 3",
+    "id": 3,
+    "description": "AppName 3 by Company 3 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 3 provides everything in one convenient place.\n\nWith AppName 3, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 3 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 3 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 3 offers the perfect blend of functionality and fun. Experience how Company 3 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 3 your trusted companion every day.",
+    "size": 53,
+    "reviews": 1150,
+    "ratingAvg": 3.5,
+    "downloads": 575000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 56
+      },
+      {
+        "name": "2 star",
+        "count": 79
+      },
+      {
+        "name": "3 star",
+        "count": 162
+      },
+      {
+        "name": "4 star",
+        "count": 315
+      },
+      {
+        "name": "5 star",
+        "count": 418
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100004/pexels-photo-100004.jpeg",
+    "title": "AppName 4",
+    "companyName": "Company 4",
+    "id": 4,
+    "description": "AppName 4 by Company 4 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 4 provides everything in one convenient place.\n\nWith AppName 4, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 4 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 4 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 4 offers the perfect blend of functionality and fun. Experience how Company 4 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 4 your trusted companion every day.",
+    "size": 54,
+    "reviews": 1200,
+    "ratingAvg": 3.8,
+    "downloads": 600000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 58
+      },
+      {
+        "name": "2 star",
+        "count": 82
+      },
+      {
+        "name": "3 star",
+        "count": 166
+      },
+      {
+        "name": "4 star",
+        "count": 320
+      },
+      {
+        "name": "5 star",
+        "count": 424
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100005/pexels-photo-100005.jpeg",
+    "title": "AppName 5",
+    "companyName": "Company 5",
+    "id": 5,
+    "description": "AppName 5 by Company 5 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 5 provides everything in one convenient place.\n\nWith AppName 5, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 5 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 5 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 5 offers the perfect blend of functionality and fun. Experience how Company 5 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 5 your trusted companion every day.",
+    "size": 55,
+    "reviews": 1250,
+    "ratingAvg": 4.1,
+    "downloads": 625000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 60
+      },
+      {
+        "name": "2 star",
+        "count": 85
+      },
+      {
+        "name": "3 star",
+        "count": 170
+      },
+      {
+        "name": "4 star",
+        "count": 325
+      },
+      {
+        "name": "5 star",
+        "count": 430
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100006/pexels-photo-100006.jpeg",
+    "title": "AppName 6",
+    "companyName": "Company 6",
+    "id": 6,
+    "description": "AppName 6 by Company 6 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 6 provides everything in one convenient place.\n\nWith AppName 6, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 6 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 6 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 6 offers the perfect blend of functionality and fun. Experience how Company 6 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 6 your trusted companion every day.",
+    "size": 56,
+    "reviews": 1300,
+    "ratingAvg": 3.5,
+    "downloads": 650000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 62
+      },
+      {
+        "name": "2 star",
+        "count": 88
+      },
+      {
+        "name": "3 star",
+        "count": 174
+      },
+      {
+        "name": "4 star",
+        "count": 330
+      },
+      {
+        "name": "5 star",
+        "count": 436
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100007/pexels-photo-100007.jpeg",
+    "title": "AppName 7",
+    "companyName": "Company 7",
+    "id": 7,
+    "description": "AppName 7 by Company 7 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 7 provides everything in one convenient place.\n\nWith AppName 7, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 7 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 7 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 7 offers the perfect blend of functionality and fun. Experience how Company 7 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 7 your trusted companion every day.",
+    "size": 57,
+    "reviews": 1350,
+    "ratingAvg": 3.8,
+    "downloads": 675000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 64
+      },
+      {
+        "name": "2 star",
+        "count": 91
+      },
+      {
+        "name": "3 star",
+        "count": 178
+      },
+      {
+        "name": "4 star",
+        "count": 335
+      },
+      {
+        "name": "5 star",
+        "count": 442
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100008/pexels-photo-100008.jpeg",
+    "title": "AppName 8",
+    "companyName": "Company 8",
+    "id": 8,
+    "description": "AppName 8 by Company 8 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 8 provides everything in one convenient place.\n\nWith AppName 8, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 8 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 8 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 8 offers the perfect blend of functionality and fun. Experience how Company 8 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 8 your trusted companion every day.",
+    "size": 58,
+    "reviews": 1400,
+    "ratingAvg": 4.1,
+    "downloads": 700000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 66
+      },
+      {
+        "name": "2 star",
+        "count": 94
+      },
+      {
+        "name": "3 star",
+        "count": 182
+      },
+      {
+        "name": "4 star",
+        "count": 340
+      },
+      {
+        "name": "5 star",
+        "count": 448
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100009/pexels-photo-100009.jpeg",
+    "title": "AppName 9",
+    "companyName": "Company 9",
+    "id": 9,
+    "description": "AppName 9 by Company 9 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 9 provides everything in one convenient place.\n\nWith AppName 9, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 9 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 9 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 9 offers the perfect blend of functionality and fun. Experience how Company 9 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 9 your trusted companion every day.",
+    "size": 59,
+    "reviews": 1450,
+    "ratingAvg": 3.5,
+    "downloads": 725000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 68
+      },
+      {
+        "name": "2 star",
+        "count": 97
+      },
+      {
+        "name": "3 star",
+        "count": 186
+      },
+      {
+        "name": "4 star",
+        "count": 345
+      },
+      {
+        "name": "5 star",
+        "count": 454
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100010/pexels-photo-100010.jpeg",
+    "title": "AppName 10",
+    "companyName": "Company 10",
+    "id": 10,
+    "description": "AppName 10 by Company 10 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 10 provides everything in one convenient place.\n\nWith AppName 10, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 10 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 10 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 10 offers the perfect blend of functionality and fun. Experience how Company 10 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 10 your trusted companion every day.",
+    "size": 60,
+    "reviews": 1500,
+    "ratingAvg": 3.8,
+    "downloads": 750000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 70
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 190
+      },
+      {
+        "name": "4 star",
+        "count": 350
+      },
+      {
+        "name": "5 star",
+        "count": 460
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100011/pexels-photo-100011.jpeg",
+    "title": "AppName 11",
+    "companyName": "Company 11",
+    "id": 11,
+    "description": "AppName 11 by Company 11 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 11 provides everything in one convenient place.\n\nWith AppName 11, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 11 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 11 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 11 offers the perfect blend of functionality and fun. Experience how Company 11 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 11 your trusted companion every day.",
+    "size": 61,
+    "reviews": 1550,
+    "ratingAvg": 4.1,
+    "downloads": 775000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 72
+      },
+      {
+        "name": "2 star",
+        "count": 103
+      },
+      {
+        "name": "3 star",
+        "count": 194
+      },
+      {
+        "name": "4 star",
+        "count": 355
+      },
+      {
+        "name": "5 star",
+        "count": 466
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100012/pexels-photo-100012.jpeg",
+    "title": "AppName 12",
+    "companyName": "Company 12",
+    "id": 12,
+    "description": "AppName 12 by Company 12 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 12 provides everything in one convenient place.\n\nWith AppName 12, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 12 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 12 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 12 offers the perfect blend of functionality and fun. Experience how Company 12 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 12 your trusted companion every day.",
+    "size": 62,
+    "reviews": 1600,
+    "ratingAvg": 3.5,
+    "downloads": 800000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 74
+      },
+      {
+        "name": "2 star",
+        "count": 106
+      },
+      {
+        "name": "3 star",
+        "count": 198
+      },
+      {
+        "name": "4 star",
+        "count": 360
+      },
+      {
+        "name": "5 star",
+        "count": 472
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100013/pexels-photo-100013.jpeg",
+    "title": "AppName 13",
+    "companyName": "Company 13",
+    "id": 13,
+    "description": "AppName 13 by Company 13 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 13 provides everything in one convenient place.\n\nWith AppName 13, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 13 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 13 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 13 offers the perfect blend of functionality and fun. Experience how Company 13 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 13 your trusted companion every day.",
+    "size": 63,
+    "reviews": 1650,
+    "ratingAvg": 3.8,
+    "downloads": 825000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 76
+      },
+      {
+        "name": "2 star",
+        "count": 109
+      },
+      {
+        "name": "3 star",
+        "count": 202
+      },
+      {
+        "name": "4 star",
+        "count": 365
+      },
+      {
+        "name": "5 star",
+        "count": 478
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100014/pexels-photo-100014.jpeg",
+    "title": "AppName 14",
+    "companyName": "Company 14",
+    "id": 14,
+    "description": "AppName 14 by Company 14 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 14 provides everything in one convenient place.\n\nWith AppName 14, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 14 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 14 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 14 offers the perfect blend of functionality and fun. Experience how Company 14 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 14 your trusted companion every day.",
+    "size": 64,
+    "reviews": 1700,
+    "ratingAvg": 4.1,
+    "downloads": 850000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 78
+      },
+      {
+        "name": "2 star",
+        "count": 112
+      },
+      {
+        "name": "3 star",
+        "count": 206
+      },
+      {
+        "name": "4 star",
+        "count": 370
+      },
+      {
+        "name": "5 star",
+        "count": 484
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100015/pexels-photo-100015.jpeg",
+    "title": "AppName 15",
+    "companyName": "Company 15",
+    "id": 15,
+    "description": "AppName 15 by Company 15 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 15 provides everything in one convenient place.\n\nWith AppName 15, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 15 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 15 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 15 offers the perfect blend of functionality and fun. Experience how Company 15 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 15 your trusted companion every day.",
+    "size": 65,
+    "reviews": 1750,
+    "ratingAvg": 3.5,
+    "downloads": 875000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 80
+      },
+      {
+        "name": "2 star",
+        "count": 115
+      },
+      {
+        "name": "3 star",
+        "count": 210
+      },
+      {
+        "name": "4 star",
+        "count": 375
+      },
+      {
+        "name": "5 star",
+        "count": 490
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100016/pexels-photo-100016.jpeg",
+    "title": "AppName 16",
+    "companyName": "Company 16",
+    "id": 16,
+    "description": "AppName 16 by Company 16 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 16 provides everything in one convenient place.\n\nWith AppName 16, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 16 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 16 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 16 offers the perfect blend of functionality and fun. Experience how Company 16 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 16 your trusted companion every day.",
+    "size": 66,
+    "reviews": 1800,
+    "ratingAvg": 3.8,
+    "downloads": 900000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 82
+      },
+      {
+        "name": "2 star",
+        "count": 118
+      },
+      {
+        "name": "3 star",
+        "count": 214
+      },
+      {
+        "name": "4 star",
+        "count": 380
+      },
+      {
+        "name": "5 star",
+        "count": 496
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100017/pexels-photo-100017.jpeg",
+    "title": "AppName 17",
+    "companyName": "Company 17",
+    "id": 17,
+    "description": "AppName 17 by Company 17 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 17 provides everything in one convenient place.\n\nWith AppName 17, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 17 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 17 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 17 offers the perfect blend of functionality and fun. Experience how Company 17 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 17 your trusted companion every day.",
+    "size": 67,
+    "reviews": 1850,
+    "ratingAvg": 4.1,
+    "downloads": 925000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 84
+      },
+      {
+        "name": "2 star",
+        "count": 121
+      },
+      {
+        "name": "3 star",
+        "count": 218
+      },
+      {
+        "name": "4 star",
+        "count": 385
+      },
+      {
+        "name": "5 star",
+        "count": 502
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100018/pexels-photo-100018.jpeg",
+    "title": "AppName 18",
+    "companyName": "Company 18",
+    "id": 18,
+    "description": "AppName 18 by Company 18 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 18 provides everything in one convenient place.\n\nWith AppName 18, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 18 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 18 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 18 offers the perfect blend of functionality and fun. Experience how Company 18 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 18 your trusted companion every day.",
+    "size": 68,
+    "reviews": 1900,
+    "ratingAvg": 3.5,
+    "downloads": 950000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 86
+      },
+      {
+        "name": "2 star",
+        "count": 124
+      },
+      {
+        "name": "3 star",
+        "count": 222
+      },
+      {
+        "name": "4 star",
+        "count": 390
+      },
+      {
+        "name": "5 star",
+        "count": 508
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100019/pexels-photo-100019.jpeg",
+    "title": "AppName 19",
+    "companyName": "Company 19",
+    "id": 19,
+    "description": "AppName 19 by Company 19 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 19 provides everything in one convenient place.\n\nWith AppName 19, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 19 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 19 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 19 offers the perfect blend of functionality and fun. Experience how Company 19 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 19 your trusted companion every day.",
+    "size": 69,
+    "reviews": 1950,
+    "ratingAvg": 3.8,
+    "downloads": 975000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 88
+      },
+      {
+        "name": "2 star",
+        "count": 127
+      },
+      {
+        "name": "3 star",
+        "count": 226
+      },
+      {
+        "name": "4 star",
+        "count": 395
+      },
+      {
+        "name": "5 star",
+        "count": 514
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100020/pexels-photo-100020.jpeg",
+    "title": "AppName 20",
+    "companyName": "Company 20",
+    "id": 20,
+    "description": "AppName 20 by Company 20 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 20 provides everything in one convenient place.\n\nWith AppName 20, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 20 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 20 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 20 offers the perfect blend of functionality and fun. Experience how Company 20 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 20 your trusted companion every day.",
+    "size": 70,
+    "reviews": 2000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 90
+      },
+      {
+        "name": "2 star",
+        "count": 130
+      },
+      {
+        "name": "3 star",
+        "count": 230
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 520
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100021/pexels-photo-100021.jpeg",
+    "title": "AppName 21",
+    "companyName": "Company 21",
+    "id": 21,
+    "description": "AppName 21 by Company 21 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 21 provides everything in one convenient place.\n\nWith AppName 21, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 21 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 21 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 21 offers the perfect blend of functionality and fun. Experience how Company 21 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 21 your trusted companion every day.",
+    "size": 71,
+    "reviews": 2050,
+    "ratingAvg": 3.5,
+    "downloads": 1025000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 92
+      },
+      {
+        "name": "2 star",
+        "count": 133
+      },
+      {
+        "name": "3 star",
+        "count": 234
+      },
+      {
+        "name": "4 star",
+        "count": 405
+      },
+      {
+        "name": "5 star",
+        "count": 526
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100022/pexels-photo-100022.jpeg",
+    "title": "AppName 22",
+    "companyName": "Company 22",
+    "id": 22,
+    "description": "AppName 22 by Company 22 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 22 provides everything in one convenient place.\n\nWith AppName 22, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 22 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 22 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 22 offers the perfect blend of functionality and fun. Experience how Company 22 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 22 your trusted companion every day.",
+    "size": 72,
+    "reviews": 2100,
+    "ratingAvg": 3.8,
+    "downloads": 1050000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 94
+      },
+      {
+        "name": "2 star",
+        "count": 136
+      },
+      {
+        "name": "3 star",
+        "count": 238
+      },
+      {
+        "name": "4 star",
+        "count": 410
+      },
+      {
+        "name": "5 star",
+        "count": 532
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100023/pexels-photo-100023.jpeg",
+    "title": "AppName 23",
+    "companyName": "Company 23",
+    "id": 23,
+    "description": "AppName 23 by Company 23 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 23 provides everything in one convenient place.\n\nWith AppName 23, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 23 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 23 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 23 offers the perfect blend of functionality and fun. Experience how Company 23 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 23 your trusted companion every day.",
+    "size": 73,
+    "reviews": 2150,
+    "ratingAvg": 4.1,
+    "downloads": 1075000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 96
+      },
+      {
+        "name": "2 star",
+        "count": 139
+      },
+      {
+        "name": "3 star",
+        "count": 242
+      },
+      {
+        "name": "4 star",
+        "count": 415
+      },
+      {
+        "name": "5 star",
+        "count": 538
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100024/pexels-photo-100024.jpeg",
+    "title": "AppName 24",
+    "companyName": "Company 24",
+    "id": 24,
+    "description": "AppName 24 by Company 24 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 24 provides everything in one convenient place.\n\nWith AppName 24, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 24 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 24 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 24 offers the perfect blend of functionality and fun. Experience how Company 24 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 24 your trusted companion every day.",
+    "size": 74,
+    "reviews": 2200,
+    "ratingAvg": 3.5,
+    "downloads": 1100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 98
+      },
+      {
+        "name": "2 star",
+        "count": 142
+      },
+      {
+        "name": "3 star",
+        "count": 246
+      },
+      {
+        "name": "4 star",
+        "count": 420
+      },
+      {
+        "name": "5 star",
+        "count": 544
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100025/pexels-photo-100025.jpeg",
+    "title": "AppName 25",
+    "companyName": "Company 25",
+    "id": 25,
+    "description": "AppName 25 by Company 25 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 25 provides everything in one convenient place.\n\nWith AppName 25, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 25 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 25 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 25 offers the perfect blend of functionality and fun. Experience how Company 25 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 25 your trusted companion every day.",
+    "size": 75,
+    "reviews": 2250,
+    "ratingAvg": 3.8,
+    "downloads": 1125000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 145
+      },
+      {
+        "name": "3 star",
+        "count": 250
+      },
+      {
+        "name": "4 star",
+        "count": 425
+      },
+      {
+        "name": "5 star",
+        "count": 550
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100026/pexels-photo-100026.jpeg",
+    "title": "AppName 26",
+    "companyName": "Company 26",
+    "id": 26,
+    "description": "AppName 26 by Company 26 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 26 provides everything in one convenient place.\n\nWith AppName 26, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 26 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 26 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 26 offers the perfect blend of functionality and fun. Experience how Company 26 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 26 your trusted companion every day.",
+    "size": 76,
+    "reviews": 2300,
+    "ratingAvg": 4.1,
+    "downloads": 1150000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 102
+      },
+      {
+        "name": "2 star",
+        "count": 148
+      },
+      {
+        "name": "3 star",
+        "count": 254
+      },
+      {
+        "name": "4 star",
+        "count": 430
+      },
+      {
+        "name": "5 star",
+        "count": 556
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100027/pexels-photo-100027.jpeg",
+    "title": "AppName 27",
+    "companyName": "Company 27",
+    "id": 27,
+    "description": "AppName 27 by Company 27 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 27 provides everything in one convenient place.\n\nWith AppName 27, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 27 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 27 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 27 offers the perfect blend of functionality and fun. Experience how Company 27 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 27 your trusted companion every day.",
+    "size": 77,
+    "reviews": 2350,
+    "ratingAvg": 3.5,
+    "downloads": 1175000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 104
+      },
+      {
+        "name": "2 star",
+        "count": 151
+      },
+      {
+        "name": "3 star",
+        "count": 258
+      },
+      {
+        "name": "4 star",
+        "count": 435
+      },
+      {
+        "name": "5 star",
+        "count": 562
+      }
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/100028/pexels-photo-100028.jpeg",
+    "title": "AppName 28",
+    "companyName": "Company 28",
+    "id": 28,
+    "description": "AppName 28 by Company 28 is an advanced, user‑friendly application designed to offer a premium experience for modern users. It combines powerful functionality with an elegant design to deliver a seamless and enjoyable interface for all kinds of users — from beginners to professionals. The app is engineered with performance and simplicity in mind, ensuring that you can achieve more with less effort. Whether you are looking for efficiency, creativity, or entertainment, AppName 28 provides everything in one convenient place.\n\nWith AppName 28, you can explore a world of possibilities. It features customizable tools, intelligent recommendations, and smart integration with your existing ecosystem. Users can personalize settings, track their progress, and share achievements with friends. Built with the latest technologies, the app ensures lightning‑fast performance even on low‑end devices. Security and privacy are also top priorities — all your data is encrypted, giving you peace of mind while using the app.\n\nAppName 28 stands out due to its commitment to innovation. Regular updates introduce new features and improvements based on community feedback. The app supports both light and dark modes, adaptive layouts, and cross‑platform compatibility, making it ideal for daily use at home, work, or travel. Its intuitive interface allows users to access complex features with just a few taps. For new users, in‑app tutorials and help guides are available to ensure a smooth onboarding process.\n\nMany users praise AppName 28 for its reliability, creative approach, and versatility. It not only simplifies tasks but also enhances productivity and enjoyment. Whether you’re a professional seeking precision tools or someone exploring new hobbies, AppName 28 offers the perfect blend of functionality and fun. Experience how Company 28 is redefining what great software feels like — practical, elegant, and truly empowering. Join millions of satisfied users worldwide and make AppName 28 your trusted companion every day.",
+    "size": 78,
+    "reviews": 2400,
+    "ratingAvg": 3.8,
+    "downloads": 1200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 106
+      },
+      {
+        "name": "2 star",
+        "count": 154
+      },
+      {
+        "name": "3 star",
+        "count": 262
+      },
+      {
+        "name": "4 star",
+        "count": 440
+      },
+      {
+        "name": "5 star",
+        "count": 568
+      }
+    ]
+  }
+]
