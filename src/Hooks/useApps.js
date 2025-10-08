@@ -8,9 +8,11 @@ const useProducts = () => {
 
     useEffect(() => {
         axios('./heroApps.json')
-        .then(data => 
-            0(data.data))
-        .catch(err => setError(err))
+        .then((res) => {
+            console.log("fetched data", res.data);
+            setProducts(res.data);
+        })
+        .catch((err) => setError(err))
         .finally(() => setLoading(false))
     }, [])
   

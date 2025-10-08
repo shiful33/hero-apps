@@ -2,7 +2,7 @@ import Logo from "../assets/logo.png";
 
 const Footer = () => {
     return (
-        <footer className="footer sm:footer-horizontal bg-base-200 text-base-content p-10 md:flex md:justify-center lg:flex justify-center md:gap-10 lg:gap-40">
+        <footer className="footer sm:footer-horizontal bg-base-200 text-base-content p-10 md:flex md:justify-center lg:flex justify-center md:gap-10 lg:gap-40 bg-white">
   <aside>
     <div className="flex justify-center items-center gap-2 mb-4">
         <img className="w-[80px]" src={Logo} alt="" />
