@@ -8,11 +8,14 @@ import playIcon from '../assets/playIcon.png';
 import { Link, useLoaderData } from 'react-router';
 import ProductCard from '../Components/ProductCard';
 import useProducts from '../Hooks/useApps';
+import { useMemo } from 'react';
 
 const Home = () => {
-    const products = useLoaderData()
+    const products = useLoaderData() || [];
     const data = useProducts()
-    const featuredProducts = products.slice(0, 8);
+    const featuredProducts = useMemo(() => {
+        return Array.isArray(products) ? products.slice(0, 8) : []
+    }, [products]);
     
     
     return (

@@ -7,7 +7,7 @@ const useProducts = () => {
     const [error, setError] = useState(null)
 
     useEffect(() => {
-        axios('./heroApps.json')
+        axios('../heroApps.json')
         .then((res) => {
             console.log("fetched data", res.data);
             setProducts(res.data);
