@@ -1,11 +1,14 @@
 import React from 'react';
 import Vector from "../assets/Vector.png";
 import Logo from "../assets/logo.png";
+import install from "../assets/install.png";
+import apps from "../assets/apps.png";
+import home from "../assets/home.png";
 import { NavLink } from 'react-router';
 
 const NavBar = () => {
     return (
-        <div className="navbar bg-base-100 shadow-sm">
+        <div className="navbar bg-base-100 shadow-sm ">
   <div className="navbar-start">
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -14,22 +17,22 @@ const NavBar = () => {
       <ul
         tabIndex={0}
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-        <li><NavLink to='/'>Home</NavLink></li>
-        <li><NavLink to='/apps'>Apps</NavLink></li>
-        <li><NavLink to='/installation'>Installation</NavLink></li>
+        <li><NavLink to='/'><img className='w-[16px]' src={home} alt="" /> Home</NavLink></li>
+        <li><NavLink to='/apps'><img className='w-[18px]' src={apps} alt="" /> Apps</NavLink></li>
+        <li><NavLink to='/installation'><img className='w-[16px]' src={install} alt="" /> Installation</NavLink></li>
       </ul>
     </div>
     <NavLink to='/' className="btn btn-ghost text-lg font-bold gradient-text lg:ml-[80px]"><img className='w-[40px]' src={Logo} alt="" /> HERO.IO</NavLink>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal font-medium text-[18px] px-1">
-      <li><NavLink to='/' end className={({ isActive }) => isActive ? 'gradient-text relative after:absolute after:left-0 after:-bottom-1 after:w-full after:h-[2px] after:bg-gradient-to-r after:from-[#8a63d2] after:to-[#a273ff]' : 'text-gray-800 hover:text-[#8a63d2] transition'}>Home</NavLink></li>
-      <li><NavLink to='/apps' className={({ isActive }) => isActive ? 'gradient-text relative after:absolute after:left-0 after:-bottom-1 after:w-full after:h-[2px] after:bg-gradient-to-r after:from-[#8a63d2] after:to-[#a273ff]' : 'text-gray-800 hover:text-[#8a63d2] transition'}>Apps</NavLink></li>
-      <li><NavLink to='/installation' className={({ isActive }) => isActive ? 'gradient-text relative after:absolute after:left-0 after:-bottom-1 after:w-full after:h-[2px] after:bg-gradient-to-r after:from-[#8a63d2] after:to-[#a273ff]' : 'text-gray-800 hover:text-[#8a63d2] transition'}>Installation</NavLink></li>
+      <li><NavLink to='/' end className={({ isActive }) => isActive ? 'gradient-text relative after:absolute after:left-0 after:-bottom-1 after:w-full after:h-[2px] mr-5 after:bg-gradient-to-r after:from-[#8a63d2] after:to-[#a273ff]' : 'text-gray-800 hover:text-[#8a63d2] transition'}><img className='w-[18px]' src={home} alt="" /> Home</NavLink></li>
+      <li><NavLink to='/apps' className={({ isActive }) => isActive ? 'gradient-text relative after:absolute after:left-0 after:-bottom-1 after:w-full after:h-[2px] after:bg-gradient-to-r after:from-[#8a63d2] after:to-[#a273ff]' : 'text-gray-800 hover:text-[#8a63d2] transition mr-5'}><img className='w-[19px]' src={apps} alt="" /> Apps</NavLink></li>
+      <li><NavLink to='/installation' className={({ isActive }) => isActive ? 'gradient-text relative after:absolute after:left-0 after:-bottom-1 after:w-full after:h-[2px] after:bg-gradient-to-r after:from-[#8a63d2] after:to-[#a273ff]' : 'text-gray-800 hover:text-[#8a63d2] transition'}><img className='w-[19px]' src={install} alt="" /> Installation</NavLink></li>
     </ul>
   </div>
   <div className="navbar-end">
-    <NavLink to='' className="btn gradient-btn gradient-btn:hover text-white font-medium text-[18px] mr-[80px]"><img src={Vector} alt="" />Contribute</NavLink>
+    <NavLink to='https://github.com/shiful33' target='blank' className="btn gradient-btn gradient-btn:hover text-white font-medium text-[18px] lg:mr-[80px]"><img src={Vector} alt="" />Contribute</NavLink>
   </div>
 </div>
     );

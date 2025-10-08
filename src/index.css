@@ -8,12 +8,17 @@ body {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+  color: #001931;
 }
 
 .gradient-text {
   background: linear-gradient(to right, #4003b3, #966bec);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.gradient-bg {
+  background: linear-gradient(to right, #591ec9, #966bec);
 }
 
 .gradient-btn {
