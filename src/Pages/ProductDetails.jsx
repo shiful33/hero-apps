@@ -1,17 +1,23 @@
-import React from 'react';
+import React, { useContext, useState } from 'react';
 import { useParams } from 'react-router';
 import useProducts from '../Hooks/useApps';
 import bigdownload from '../assets/bigdownload.png';
 import starrr from '../assets/starrr.png';
 import reviewImg from '../assets/reviewImg.png';
 import RatingBars from './RatingBars';
+import { InstallContext } from '../Context/InstallContext';
+import { toast } from 'react-toastify';
+import NotFoundApps from "../Pages/NotFoundApps";
 
 const ProductDetails = () => {
-    
-    const { id } = useParams()
-    const { products, loading, error } = useProducts()
-    // const { products } = useProducts()
-    const product = products.find(p => String(p.id) === id)
+    const { id } = useParams();
+    const { products, loading, error } = useProducts();
+    const { installApp, installedApps } = useContext(InstallContext);
+
+    const product = products.find(p => String(p.id) === id);
+    const [ isInstalled, setIsInstalled ] = useState(
+        installedApps.some(app => String(app.id) === id)
+    );
 
     if (loading) {
         return <div>Loading Product Details</div>
@@ -24,10 +30,18 @@ const ProductDetails = () => {
     if (!product) {
         return (
             <div>
-                <h1>404: App not Found</h1>
+                <NotFoundApps />
             </div>
         )
     }
+
+    const handleInstall = () => {
+        if (!isInstalled) {
+            installApp(product);
+            setIsInstalled(true);
+            toast.success(`Yahoo 🔥 !! ${product.title} Installed Successfully`);
+        }
+    };
 
     const { image, title, reviews, companyName, ratingAvg, downloads, size, ratings, description } = product;
     
@@ -58,7 +72,9 @@ const ProductDetails = () => {
                    <h2 className='text-[40px] font-extrabold'>{reviews}</h2>
                 </div>
                </div>
-               <button className='btn bg-[#00D390] text-white text-[20px] font-semibold py-[24px] px-[20px]'>Install Now ({size})</button>
+               <button
+               onClick={handleInstall} disabled={isInstalled}
+               className={`btn bg-[#00d390] text-white text-[20px] font-semibold py-[24px] px-[20px] ${isInstalled ? 'bg-[#00d390]' : 'bg-[#00d390]'}`}>{isInstalled ? 'Installed' : `Install Now (${size})`}</button>
             </div>
         </div>
         <div>

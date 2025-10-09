@@ -5,6 +5,8 @@ import Installation from "../Pages/Installation";
 import MainLayout from "../Layout/MainLayout";
 import ErrorPage from "../Pages/ErrorPage";
 import ProductDetails from "../Pages/ProductDetails";
+import NotFound from "../Pages/NotFound";
+import NotFoundApps from "../Pages/NotFoundApps";
 
 
 
@@ -18,7 +20,7 @@ const router = createBrowserRouter([
       {
         index: true,
         Component: Home,
-        loader: () => fetch('./heroApps.json'),
+        loader: () => fetch('/heroApps.json'),
       },
       {
         path: "/apps",
@@ -32,13 +34,16 @@ const router = createBrowserRouter([
         path: "/product/:id",
         element: <ProductDetails />,
       },
+      {
+        path: "*",
+        element: <NotFound />,
+      },
+      {
+        path: "*",
+        element: <NotFoundApps />,
+      },
     ]
   },
-      /* {
-        path: "*",
-        element: <ErrorPage />,
-      }, */
-  
 ]);
 
 export default router;

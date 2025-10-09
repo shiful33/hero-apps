@@ -30,7 +30,7 @@ const RatingBars = ({ ratings = [] }) => {
 
                                 <div className='flex-1'>
                                     <div className='w-[100%] mx-auto bg-[#eef2f6] h-5 overflow-hidden'>
-                                        <div className='h-full bg-[#ff8811] rounded-md transition-all' style={{ width: `${widthPct}%` }} aria-label={`${r.name} ${r.count}`}>
+                                        <div className='h-full gradient-bg rounded-md transition-all' style={{ width: `${widthPct}%` }} aria-label={`${r.name} ${r.count}`}>
 
                                         </div>
                                     </div>
