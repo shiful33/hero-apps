@@ -39,7 +39,13 @@ const ProductDetails = () => {
         if (!isInstalled) {
             installApp(product);
             setIsInstalled(true);
-            toast.success(`Yahoo 🔥 !! ${product.title} Installed Successfully`);
+            toast.success(`Yahoo 🔥 !! ${product.title} Installed Successfully`, {
+                duration: 3000,
+                style: {
+                background: 'linear-gradient(to right, #591ec9, #966bec)',
+                color: '#ffffff',
+            }
+            });
         }
     };
 
@@ -47,7 +53,7 @@ const ProductDetails = () => {
     
     return (
         <div>
-            <div className='lg:flex max-w-full items-center gap-10 pb-[30px] border-b-2 border-[#e0e0e0] p-[80px]'>
+            <div className='lg:flex max-w-full items-center gap-25 pb-[30px] border-b-2 border-[#e0e0e0] p-[80px]'>
             <div>
                <img className='w-[350px] h-[350px] rounded-[18px]' src={image} alt="" />
             </div>

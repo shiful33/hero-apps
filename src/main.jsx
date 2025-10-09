@@ -10,9 +10,10 @@ import 'react-toastify/dist/ReactToastify.css';
 
 
 
+
 createRoot(document.getElementById('root')).render (
   <StrictMode>
-    <InstallProvider>
+      <InstallProvider>
       <RouterProvider router={router} />
       <ToastContainer position="top-center" autoClose={2000} />
     </InstallProvider>

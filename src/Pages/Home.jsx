@@ -38,8 +38,8 @@ const Home = () => {
                 <div>
                    <h1 className='text-[28px] md:text-[40px] lg:text-[45px] text-white font-semibold text-center mb-[40px]'>Trusted By Millions, Built For You</h1>
                 </div>
-                <div className='lg:flex justify-center items-center text-center gap-18'>
-                    <div className='flex justify-center items-center gap-5'>
+                <div className='items-center justify-center text-center lg:flex gap-18'>
+                    <div className='flex items-center justify-center gap-5'>
                         <div>
                         <p className='text-white mb-[16px]'>Total Download</p>
                         <h1 className='text-white text-[36px] md:text-[44px] lg:text-[64px] font-extrabold mb-[16px]'>29.6M</h1>
@@ -47,7 +47,7 @@ const Home = () => {
                         </div>
                         <img className='bg-white rounded-lg w-[40px]' src={downIcon} alt="" />
                     </div>
-                    <div className='flex justify-center items-center gap-5'>
+                    <div className='flex items-center justify-center gap-5'>
                         <div>
                         <p className='text-white mb-[16px]'>Total Reviews</p>
                         <h1 className='text-white text-[36px] md:text-[44px] lg:text-[64px] font-extrabold mb-[16px]'>906K</h1>
@@ -55,7 +55,7 @@ const Home = () => {
                         </div>
                         <img className='bg-white rounded-lg w-[40px]' src={starIcon} alt="" />
                     </div>
-                    <div className='flex justify-center items-center gap-4'>
+                    <div className='flex items-center justify-center gap-4'>
                         <div>
                         <p className='text-white mb-[16px]'>Active Apps</p>
                         <h1 className='text-white text-[36px] md:text-[44px] lg:text-[64px] font-extrabold mb-[16px]'>132+</h1>
@@ -72,7 +72,7 @@ const Home = () => {
                 <p className='text-[20px] font-normal mb-[40px]'>Explore All Trending Apps on the Market developed by us</p>
                </div>
                {/* Products Container*/}
-               <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 justify-center mx-[42px] md:mx-[140px] lg:mx-[220px]'>
+               <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 justify-center mx-[42px] md:mx-[140px] lg:mx-[220px]'>
                   {
                     featuredProducts.map(product => (
                         <ProductCard key={product.id} product={product}/>
@@ -80,7 +80,7 @@ const Home = () => {
                   }
                </div>
                <div className='flex justify-center mt-[40px] mb-[80px]'>
-                <Link to='/apps' className=' gradient-btn text-white py-[10px] px-[32px] rounded-[4px]'>Show All</Link>
+                <Link to='/apps' className=' gradient-btn text-white py-[10px] px-[40px] rounded-[4px]'>Show All</Link>
                </div>
             </div>
         </div>
